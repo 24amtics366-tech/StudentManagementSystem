@@ -145,7 +145,7 @@ The Student Management System provides a simple solution for managing student in
 Jenil Ahir
 
 GitHub Repository:  
-https://github.com/JenilAhir/Web-Technology-Project
+https://github.com/24amtics366-tech/StudentManagementSystem/tree/main
 
 ---
 
