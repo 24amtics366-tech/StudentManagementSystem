@@ -142,10 +142,10 @@ The Student Management System provides a simple solution for managing student in
 
 ## Author
 
-Ridham Kotadiya
+Jenil Ahir
 
 GitHub Repository:  
-https://github.com/RidhamKotadiya/Web-Technology-Project
+https://github.com/JenilAhir/Web-Technology-Project
 
 ---
 
